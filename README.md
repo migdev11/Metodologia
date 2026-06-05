@@ -1,6 +1,6 @@
 # Metodologia
 Investigacion
-# Capítulo 02: Actor-Critic
+# Capítulo 41: Actor-Critic
 
 ## Autor
 
